@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Join the Best Microsoft Azure Training at JustAcademy. Learn Cloud Concepts, Azure Services, and prepare for certification with expert-led sessions and hands-on labs." />
+  <meta name="keywords" content="Microsoft Azure Training, Best Azure Course, Learn Azure, Cloud Computing, Azure Certification, JustAcademy, Azure Fundamentals, Azure Cloud Services" />
+  <meta name="author" content="JustAcademy" />
+  <title>Best Microsoft Azure Training - JustAcademy | Learn Cloud Computing</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Roboto', sans-serif;
+      background: #f4f9fc;
+      color: #333;
+    }
+    header {
+      background-color: #0072c6;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.4rem;
+    }
+    .container {
+      max-width: 1100px;
+      margin: auto;
+      padding: 2rem;
+    }
+    .course-image {
+      width: 100%;
+      border-radius: 10px;
+      margin-bottom: 2rem;
+    }
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.5rem;
+    }
+    .card {
+      background: white;
+      border-radius: 10px;
+      padding: 1.5rem;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      transition: transform 0.2s ease;
+    }
+    .card:hover {
+      transform: translateY(-5px);
+    }
+    .card h3 {
+      margin-top: 0;
+      color: #0072c6;
+    }
+    .enroll-btn {
+      display: inline-block;
+      padding: 0.75rem 1.5rem;
+      background-color: #00a1f1;
+      color: white;
+      font-weight: bold;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-top: 1.5rem;
+    }
+    footer {
+      text-align: center;
+      background-color: #0072c6;
+      color: white;
+      padding: 1.5rem 1rem;
+      margin-top: 3rem;
+    }
+    footer a {
+      color: #fff;
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>☁️ Best Microsoft Azure Training at JustAcademy</h1>
+    <p>Master cloud computing with industry-relevant skills and certifications</p>
+  </header>
+
+  <div class="container">
+    <img class="course-image" src="https://www.justacademy.co/storage2/course_image/1708336833_course_image.png" alt="Microsoft Azure Training Course Image">
+
+    <div class="cards">
+      <div class="card">
+        <h3>🔧 Azure Fundamentals</h3>
+        <p>Get introduced to cloud concepts, Azure architecture, and core services.</p>
+      </div>
+      <div class="card">
+        <h3>🌐 Deploying Azure Services</h3>
+        <p>Hands-on with Azure Portal, Resource Manager, and Virtual Networks.</p>
+      </div>
+      <div class="card">
+        <h3>🔐 Security & Monitoring</h3>
+        <p>Understand Azure security, compliance, role-based access, and monitoring tools.</p>
+      </div>
+      <div class="card">
+        <h3>📜 Certification Preparation</h3>
+        <p>Prepare for AZ-900, AZ-104 with practice tests and expert mentoring.</p>
+      </div>
+    </div>
+
+    <a class="enroll-btn" href="https://www.justacademy.co/course-detail/microsoft-azure-training" target="_blank">🔗 Enroll Now</a>
+  </div>
+
+  <footer>
+    📞 Contact Us — Visit: <a href="https://www.justacademy.co">www.justacademy.co</a><br />
+    © 2025 JustAcademy. All rights reserved.
+  </footer>
+</body>
+</html>
